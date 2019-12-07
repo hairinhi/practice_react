@@ -1,2 +1,2 @@
-# practice_react
- This is a twitter like application.
+# Description
+ This is a twitter like application using GraphQL and Apollo.
