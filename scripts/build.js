@@ -99,8 +99,6 @@ function build(previousFileSizes) {
       }
       const messages = formatWebpackMessages(stats.toJson({}, true));
       if (messages.errors.length) {
-        
-        
         if (messages.errors.length > 1) {
           messages.errors.length = 1;
         }
